@@ -67,7 +67,7 @@ else:
 
 #Ejemplo 4- Operador Ternario 
 
-parametro=True
+#parametro=True
 
 #Operador original
 
@@ -78,11 +78,12 @@ else:
 
 #Operador ternario  
 
-print("El parametro es verdadero") if parametro==True else print("El parametro es falso")
+'''print("El parametro es verdadero") if parametro==True else print("El parametro es falso")
 
 #Ejemplo 2 de operador ternario
 
 estaLloviendo=False
 
-print("¿Está lloviendo?") if estaLloviendo==True else print("No está lloviendo")
+print("¿Está lloviendo?") if estaLloviendo==True else print("No está lloviendo")'''
+
 
